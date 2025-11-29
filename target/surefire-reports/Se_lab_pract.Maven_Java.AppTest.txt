@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Se_lab_pract.Maven_Java.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.082 s -- in Se_lab_pract.Maven_Java.AppTest
